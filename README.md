@@ -1,4 +1,17 @@
 Random Hangman
 ==============
 
-**Simple Hangman written in Python with random words brought by setgetgo.com API.**
+**Simple Hangman written in less than 100 lines of Python with random words brought by setgetgo.com API.**
+
+This game has been built in a day of completely boredom after exams. I hope you enjoy.
+
+Needs
+--------------
+- Python installed in your computer
+
+Usage
+--------------
+Browse to the folder you cloned the repository and execute in a terminal:
+*chmod +x hangman.py*
+*./hangman.py*
+And you will be playing the game
