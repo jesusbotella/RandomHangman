@@ -8,6 +8,7 @@ This game has been built in a day of completely boredom after exams. I hope you 
 Needs
 --------------
 - Python installed in your computer
+- A computer connected to Internet
 
 Usage
 --------------
