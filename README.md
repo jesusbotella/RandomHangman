@@ -14,10 +14,10 @@ Usage
 Browse to the folder where you cloned the repository and execute in a terminal
 
 
-chmod +x hangman.py
+**chmod +x hangman.py**
 
 
-./hangman.py
+**./hangman.py**
 
 
 And you will be playing the game
